@@ -1,0 +1,32 @@
+{
+  "name": "react-native-refresh-list",
+  "version": "1.0.0",
+  "description": "React Native Refresh List View",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alextkd/react-native-refresh-list"
+  },
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-refresh-list"
+    "react-native-refresh-list-view",
+    "react-native-refreshable-list"
+    "react-components",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Alexandru Lazar",
+    "email": "alextkd123@yahoo.com",
+    "url": "http://moduscreate.com"
+  },
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "alextkd",
+      "email": "alextkd123@yahoo.com"
+    }
+  ]
+}
