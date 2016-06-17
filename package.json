@@ -9,8 +9,8 @@
   "main": "index.js",
   "keywords": [
     "react-native",
-    "react-native-refresh-list"
-    "react-native-refreshable-list"
+    "react-native-refresh-list",
+    "react-native-refreshable-list",
     "react-components",
     "react-component",
     "ios",
